@@ -17,7 +17,7 @@ This project implements a hospital ERP system with modules like HR, Inventory, B
 ### Local Deployment
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hospital-erp.git
+   git clone[ https://github.com/ayushsharma-cc/Hospital-ERP-System](https://github.com/ayushsharma-cc/Hospital-ERP-System)
 Install dependencies: Navigate to the project folder and run the following command to install the necessary Node.js modules:
 
 bash
@@ -81,7 +81,7 @@ Clone your repository on EC2:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/hospital-erp.git
+git clone [https://github.com/your-username/hospital-erp.git](https://github.com/ayushsharma-cc/Hospital-ERP-System)
 Use SCP to transfer files directly:
 bash
 Copy
