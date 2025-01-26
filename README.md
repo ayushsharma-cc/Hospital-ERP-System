@@ -17,7 +17,7 @@ This project implements a hospital ERP system with modules like HR, Inventory, B
 ### Local Deployment
 1. Clone the repository:
    ```bash
-   git clone[ https://github.com/ayushsharma-cc/Hospital-ERP-System](https://github.com/ayushsharma-cc/Hospital-ERP-System)
+   git clone https://github.com/ayushsharma-cc/Hospital-ERP-System
 Install dependencies: Navigate to the project folder and run the following command to install the necessary Node.js modules:
 
 bash
@@ -34,6 +34,7 @@ javascript
 Copy
 Edit
 const dbURI = 'mongodb+srv://your-user:your-password@cluster0.mongodb.net/hospital-erp?retryWrites=true&w=majority';
+
 If using local MongoDB: Set the connection string to mongodb://localhost:27017/hospital-erp.
 Start the application: Run the application locally by executing:
 
